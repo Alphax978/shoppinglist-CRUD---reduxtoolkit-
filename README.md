@@ -44,7 +44,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Run the json server before npm start
 <br/>
-command to run json server : `json-server db-json -p 40404` 
+command to run json server : `json-server db.json -p 40404` 
 
 ## Learn More
 
